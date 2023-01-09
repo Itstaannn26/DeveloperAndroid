@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Checkboxes_and_etc</string>
+    <string name="syrup">Chocolate Syrup</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="crushed_nuts">Crushed Nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="oreo_cookie_crumbles">Oreo Cookie Crumbles</string>
+    <string name="show_toast">SHOW TOAST</string>
+    <string name="choose_toppings">Choose Toppings :</string>
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CounterHomework</string>
+    <string name="number">0</string>
+    <string name="edittext">This is an Edit Text!</string>
+</resources>
